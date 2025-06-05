@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /
+Disallow: /404/
+Disallow: /homepage/
+Disallow: /landing/
+Disallow: /endpoint/
+Disallow: /livechat/
+Disallow: /storybook/
+Disallow: *.binary.sx
+Disallow: /?region=*/
+Disallow: */eu/*
+Disallow: *_page=*
+Disallow: *?s=*
+Disallow: /cdn-cgi/
+Disallow: *?term=*
+Disallow: *?login_challenge=*
+Sitemap: https://deriv.com/sitemap.xml
